@@ -6,7 +6,7 @@
 
 - 我是一名 Java 工程师
 - 欢迎关注我的微信公众号『蒟蒻』
-- 博客：yuanyu.blog.csdn.net
-- 码云：yuanyu1997
+- 博客：https://yuanyu.blog.csdn.net
+- 码云：https://gitee.com/yuanyu1997
 
 [![yuanyu github stats](https://github-readme-stats.vercel.app/api?username=yuanyu1997)](//www.yuanyu.blog.csdn.net)
