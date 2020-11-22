@@ -4,7 +4,7 @@
 
 😄很高兴遇见你，请多指教
 
-- 我是一名 Java 工程师
+- 我是一名 JAVA 工程师
 - 欢迎关注我的微信公众号『蒟蒻』
 - 博客：https://yuanyu.blog.csdn.net
 - 码云：https://gitee.com/yuanyu1997
